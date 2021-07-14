@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\PropertyProxy\bin\Debug\PropertyProxy.exe.config
+C:\Users\Ranieri\Desktop\PropertyProxy\bin\Debug\PropertyProxy.exe
+C:\Users\Ranieri\Desktop\PropertyProxy\bin\Debug\PropertyProxy.pdb
+C:\Users\Ranieri\Desktop\PropertyProxy\obj\Debug\PropertyProxy.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\PropertyProxy\obj\Debug\PropertyProxy.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\PropertyProxy\obj\Debug\PropertyProxy.exe
+C:\Users\Ranieri\Desktop\PropertyProxy\obj\Debug\PropertyProxy.pdb

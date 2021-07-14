@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\ProxyExercise\bin\Debug\ProxyExercise.exe.config
+C:\Users\Ranieri\Desktop\ProxyExercise\bin\Debug\ProxyExercise.exe
+C:\Users\Ranieri\Desktop\ProxyExercise\bin\Debug\ProxyExercise.pdb
+C:\Users\Ranieri\Desktop\ProxyExercise\obj\Debug\ProxyExercise.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\ProxyExercise\obj\Debug\ProxyExercise.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\ProxyExercise\obj\Debug\ProxyExercise.exe
+C:\Users\Ranieri\Desktop\ProxyExercise\obj\Debug\ProxyExercise.pdb

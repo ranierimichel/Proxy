@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\CompositeProxySoAAoS\bin\Debug\CompositeProxySoAAoS.exe.config
+C:\Users\Ranieri\Desktop\CompositeProxySoAAoS\bin\Debug\CompositeProxySoAAoS.exe
+C:\Users\Ranieri\Desktop\CompositeProxySoAAoS\bin\Debug\CompositeProxySoAAoS.pdb
+C:\Users\Ranieri\Desktop\CompositeProxySoAAoS\obj\Debug\CompositeProxySoAAoS.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\CompositeProxySoAAoS\obj\Debug\CompositeProxySoAAoS.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\CompositeProxySoAAoS\obj\Debug\CompositeProxySoAAoS.exe
+C:\Users\Ranieri\Desktop\CompositeProxySoAAoS\obj\Debug\CompositeProxySoAAoS.pdb

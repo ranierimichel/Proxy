@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtectionProxy", "ProtectionProxy.csproj", "{608EE317-9DF4-49C0-9197-265AF9773696}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{608EE317-9DF4-49C0-9197-265AF9773696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608EE317-9DF4-49C0-9197-265AF9773696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608EE317-9DF4-49C0-9197-265AF9773696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608EE317-9DF4-49C0-9197-265AF9773696}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE2B6B4F-0063-458F-BFD9-A06EFA877213}
+	EndGlobalSection
+EndGlobal

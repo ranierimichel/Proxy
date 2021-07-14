@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\CompositeProxyWithArrayBackedProperties\bin\Debug\CompositeProxyWithArrayBackedProperties.exe.config
+C:\Users\Ranieri\Desktop\CompositeProxyWithArrayBackedProperties\bin\Debug\CompositeProxyWithArrayBackedProperties.exe
+C:\Users\Ranieri\Desktop\CompositeProxyWithArrayBackedProperties\bin\Debug\CompositeProxyWithArrayBackedProperties.pdb
+C:\Users\Ranieri\Desktop\CompositeProxyWithArrayBackedProperties\obj\Debug\CompositeProxyWithArrayBackedProperties.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\CompositeProxyWithArrayBackedProperties\obj\Debug\CompositeProxyWithArrayBackedProperties.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\CompositeProxyWithArrayBackedProperties\obj\Debug\CompositeProxyWithArrayBackedProperties.exe
+C:\Users\Ranieri\Desktop\CompositeProxyWithArrayBackedProperties\obj\Debug\CompositeProxyWithArrayBackedProperties.pdb

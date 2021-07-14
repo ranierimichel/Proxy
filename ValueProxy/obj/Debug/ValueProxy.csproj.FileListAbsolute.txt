@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\ValueProxy\bin\Debug\ValueProxy.exe.config
+C:\Users\Ranieri\Desktop\ValueProxy\bin\Debug\ValueProxy.exe
+C:\Users\Ranieri\Desktop\ValueProxy\bin\Debug\ValueProxy.pdb
+C:\Users\Ranieri\Desktop\ValueProxy\obj\Debug\ValueProxy.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\ValueProxy\obj\Debug\ValueProxy.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\ValueProxy\obj\Debug\ValueProxy.exe
+C:\Users\Ranieri\Desktop\ValueProxy\obj\Debug\ValueProxy.pdb

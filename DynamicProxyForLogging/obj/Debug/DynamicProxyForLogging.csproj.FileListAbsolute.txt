@@ -1,0 +1,10 @@
+C:\Users\Ranieri\Desktop\DynamicProxyForLogging\bin\Debug\DynamicProxyForLogging.exe.config
+C:\Users\Ranieri\Desktop\DynamicProxyForLogging\bin\Debug\DynamicProxyForLogging.exe
+C:\Users\Ranieri\Desktop\DynamicProxyForLogging\bin\Debug\DynamicProxyForLogging.pdb
+C:\Users\Ranieri\Desktop\DynamicProxyForLogging\bin\Debug\Dynamitey.dll
+C:\Users\Ranieri\Desktop\DynamicProxyForLogging\bin\Debug\ImpromptuInterface.dll
+C:\Users\Ranieri\Desktop\DynamicProxyForLogging\obj\Debug\DynamicProxyForLogging.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\DynamicProxyForLogging\obj\Debug\DynamicProxyForLogging.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\DynamicProxyForLogging\obj\Debug\DynamicProxyForLogging.csproj.CopyComplete
+C:\Users\Ranieri\Desktop\DynamicProxyForLogging\obj\Debug\DynamicProxyForLogging.exe
+C:\Users\Ranieri\Desktop\DynamicProxyForLogging\obj\Debug\DynamicProxyForLogging.pdb

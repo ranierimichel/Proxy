@@ -1,0 +1,7 @@
+C:\Users\Ranieri\Desktop\ProtectionProxy\bin\Debug\ProtectionProxy.exe.config
+C:\Users\Ranieri\Desktop\ProtectionProxy\bin\Debug\ProtectionProxy.exe
+C:\Users\Ranieri\Desktop\ProtectionProxy\bin\Debug\ProtectionProxy.pdb
+C:\Users\Ranieri\Desktop\ProtectionProxy\obj\Debug\ProtectionProxy.csproj.AssemblyReference.cache
+C:\Users\Ranieri\Desktop\ProtectionProxy\obj\Debug\ProtectionProxy.csproj.CoreCompileInputs.cache
+C:\Users\Ranieri\Desktop\ProtectionProxy\obj\Debug\ProtectionProxy.exe
+C:\Users\Ranieri\Desktop\ProtectionProxy\obj\Debug\ProtectionProxy.pdb
